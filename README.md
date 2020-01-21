@@ -1,4 +1,4 @@
-# improv watcher
+# patch watcher
 Auto-commits when the vcv autosave file changes. 
 
 required:
